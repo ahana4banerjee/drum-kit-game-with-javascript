@@ -1,0 +1,1 @@
+This is a drum kit game that makes sound effects of different instruments when particular keys are pressed or the buttons on the website are clicked. It uses the concept of Event listeners on javascript.
